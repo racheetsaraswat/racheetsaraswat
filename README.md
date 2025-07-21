@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **racheetsaraswat0705@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZF-7D_pVudXIhJ5Ilv2fwx3oVH9dLN63/view?usp=drive_link](https://drive.google.com/file/d/1_xYtGt2tg4Vwppd_ArGvuWtVrBHG4pe8/view?usp=sharing)
+- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1_xYtGt2tg4Vwppd_ArGvuWtVrBHG4pe8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
