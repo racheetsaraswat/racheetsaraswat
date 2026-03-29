@@ -22,6 +22,6 @@
 <h3 align="center">Recent Projects</h3>
 <ul align="center">
   <li><a href="https://github.com/racheetsaraswat/DeepfakeDetection">Deepfake Detection</a> – Detecting manipulated media using AI/ML.</li>
-  <li><a href="https://github.com/racheetsaraswat/Portfolio">Portfolio Website</a> – Personal portfolio built with React and Tailwind CSS.</li>
-  <li><a href="https://github.com/racheetsaraswat/ChatApp">Chat App</a> – Real-time chat application using Node.js and Socket.io.</li>
+  <li><a href="https://github.com/racheetsaraswat/pet-shielders-main">Pet Shielders</a> – Personal portfolio built with React and Tailwind CSS.</li>
+  <li><a href="https://github.com/racheetsaraswat/MiniProject_GLA">Bit coin Price Predictor</a> – Real-time chat application using Node.js and Socket.io.</li>
 </ul>
