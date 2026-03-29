@@ -10,12 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: anuraghazra/github-readme-stats@master
-        with:
-          # Your GitHub username
-          username: racheetsaraswat
-          # The secret you just created
-          token: ${{ secrets.GH_TOKEN }}
+      - name: Download GitHub stats SVG
+        run: |
+          curl -o generated-stats.svg "https://github-readme-stats.vercel.app/api?username=racheetsaraswat"
       - name: Commit and push generated stats
         run: |
           git config --global user.name 'github-actions[bot]'
