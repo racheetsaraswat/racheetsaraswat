@@ -21,7 +21,7 @@
 
 <h3 align="center">Recent Projects</h3>
 <ul align="center">
-  <li><a href="https://github.com/racheetsaraswat/DeepfakeDetection">Deepfake Detection</a> – Detecting manipulated media using AI/ML.</li>
-  <li><a href="https://github.com/racheetsaraswat/pet-shielders-main">Pet Shielders</a> – Personal portfolio built with React and Tailwind CSS.</li>
-  <li><a href="https://github.com/racheetsaraswat/MiniProject_GLA">Bit coin Price Predictor</a> – Real-time chat application using Node.js and Socket.io.</li>
+  <li><a href="https://github.com/racheetsaraswat/DeepfakeDetection">Deepfake Detection</a> – A project focused on identifying manipulated media using deep learning techniques.</li>
+  <li><a href="https://github.com/racheetsaraswat/pet-shielders-main">Pet Shielders</a> – A platform for pet adoption and animal welfare management.</li>
+  <li><a href="https://github.com/racheetsaraswat/MiniProject_GLA">Bitcoin Price Predictor</a> – A machine learning model to predict Bitcoin prices based on historical data.</li>
 </ul>
