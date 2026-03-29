@@ -1,0 +1,18 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          # Your GitHub username
+          username: racheetsaraswat
+          # The secret you just created
+          token: ${{ secrets.GH_TOKEN }}
